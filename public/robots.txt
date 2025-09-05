@@ -3,5 +3,5 @@ User-agent: *
 Allow: /
 
 # Sitemap location
-Sitemap: https://javeria-portfolio.vercel.app/sitemap.xml
+Sitemap: https://javeria-portfolio-iota.vercel.app/sitemap.xml
 
